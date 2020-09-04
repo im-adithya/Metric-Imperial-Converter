@@ -20,7 +20,7 @@
     "helmet": "^3.23.3",
     "mathjs": "^7.1.0",
     "mocha": "^3.5.3",
-    "mongodb": "^2.2.36",
+    "mongodb": "^3.6.1",
     "zombie": "^5.0.8"
   },
   "engines": {
